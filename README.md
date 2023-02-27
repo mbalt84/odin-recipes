@@ -1,2 +1,2 @@
 # odin-recipes
-1st Odin exercise
+1st Odin exercise.
